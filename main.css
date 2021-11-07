@@ -1,0 +1,145 @@
+.anon
+{
+   text-align: center;
+}
+
+.anon img
+{
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    border: 6px solid darkcyan;
+    text-align: center;
+    
+}
+body
+{
+    font-size: 17px;
+    font-family: "Palatino Linotype", "Arial", sans-serif;
+    
+}
+
+header
+{
+    background-image:url(fon.jpg);
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    font-size: 20px;
+    color:darkblue;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-style: italic;
+}
+
+.fon
+{
+    text-align: center;
+}
+
+.fon img
+{
+    text-align: center;
+    width: 100%;
+}
+
+table{
+    width:100%;
+}
+
+td{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+td .anon{
+    padding-top:20px;
+}
+
+main
+{
+    background-image:url(fon2.jpg);
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+}
+
+.about-me
+{
+    padding-left:10px;
+    padding:20px;
+    background-color:rgba(224,255,255,0.3);
+}
+
+main a
+{
+    color: black;
+}
+
+article
+{
+    background-color:rgba(127,255,212,0.2);
+    padding:20px;
+    
+}
+
+article h2,h3, audio
+{
+    padding-top:10px;
+}
+
+.melody
+{
+    text-align: center;
+    background-color:rgba(127,255,212,0.5);
+    width: 21%;
+    min-height: 100px;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+footer{
+    background-image:url(fon3.gif);
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding:20px;
+    padding-left:200px;
+}
+
+h1,h2,h3{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p
+{
+    padding-bottom:5px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+nav ul
+{
+    margin: 0;
+   /* margin-left: 130px;*/
+    text-align: center;
+    padding: 0;
+    list-style: none;
+    padding-bottom: 20px;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+nav a {
+  color: darkblue;
+}
